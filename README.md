@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ronronrivera
-- 👀 I’m interested in Machine Learning 
+- 👀 I’m interested in Game development and the Science behind it
 - 🌱 I’m currently learning Python in CS50
-- 💞️ I’m looking to collaborate on making big projects
+- 💞️ I’m looking to collaborate on making big projects with C++ Physics and Game engines
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I got friendzoned in college :(
+
+
 
 <!---
 ronronrivera/ronronrivera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
