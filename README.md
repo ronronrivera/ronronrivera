@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ronronrivera
 - 👀 I’m interested in Game development and the Science behind it
-- 🌱 I’m currently learning Python in CS50
+- 🌱 I’m currently learning Physics, OpenGL, Vulkan, C++
 - 💞️ I’m looking to collaborate on making big projects with C++ Physics and Game engines
-- 📫 How to reach me ...
+
 
 
 
