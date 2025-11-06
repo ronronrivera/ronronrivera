@@ -1,14 +1,6 @@
 # 👋 Hi, I'm Ron-ron Aspe Rivera
 
 🎓 **Computer Science Student**  
-💻 Passionate about **C++**, and **Software Development**  
-
----
-
-## 🧠 About Me
- 🔹 I enjoy building cool and efficient projects using **C++**  
- 🔹 Currently exploring **graphics programming** and **game physics simulation**
- 🔹 I use **Arch Linux** as my main development environment  
 
 ---
 
