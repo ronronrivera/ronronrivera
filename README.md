@@ -2,11 +2,11 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 🎓 **Computer Science Student** at **Caraga State University, Philippines**  
-💻 **C++ Developer | Full Stack Developer
+💻 **C++ Developer | Full Stack Developer**
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Languages and Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
