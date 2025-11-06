@@ -6,9 +6,9 @@
 ---
 
 ## 🧠 About Me
-- 🔹 I enjoy building cool and efficient projects using **C++**  
-- 🔹 Currently exploring **graphics programming** and **game physics simulation**
-- 🔹 I use **Arch Linux** as my main development environment  
+ 🔹 I enjoy building cool and efficient projects using **C++**  
+ 🔹 Currently exploring **graphics programming** and **game physics simulation**
+ 🔹 I use **Arch Linux** as my main development environment  
 
 ---
 
