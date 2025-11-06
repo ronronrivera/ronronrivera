@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Ron-ron Aspe Rivera
 
-🎓 **Computer Science Student**  
+🎓 **Computer Science Student** from **Caraga State University, Philippines**  
 
----
 
 ## 🧰 Tech Stack
 **Languages:** C, C++, JavaScript  
@@ -10,7 +9,6 @@
 **Databases:** MongoDB  
 **OS:** Arch Linux,  
 
----
 
 ## 📫 Contact Me
 - ✉️ Email: [ronronrivera.dev@gmail.com](mailto:ronaspe42@gmail.com)
