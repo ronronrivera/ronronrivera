@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Ron-ron Aspe Rivera
-
+<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Ron</a> <img
+                                                                                                       
 🎓 **Computer Science Student** from **Caraga State University, Philippines**  
 
 
