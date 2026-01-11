@@ -27,7 +27,3 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 - 🧑‍💻 GitHub: [github.com/ronronrivera](https://github.com/ronronrivera)
 
 ---
-
-![Ron-ron's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronronrivera&show_icons=true&theme=radical)
-
-⭐ *"Keep learning, keep building — progress over perfection."*
