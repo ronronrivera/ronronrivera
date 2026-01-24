@@ -64,8 +64,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   <img src="https://github.com/ronronrivera/ronronrivera/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-[![wakatime](https://wakatime.com/badge/user/YOUR_ID.svg)](https://wakatime.com)
-
 
 ## 📫 Contact Me
 - ✉️ Email: [ronaspe42@gmail.com](mailto:ronaspe42@gmail.com)  
