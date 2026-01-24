@@ -60,9 +60,12 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   />
 </p>
 
-<p align="center">
-  <img src="https://github.com/ronronrivera/ronronrivera/blob/output/github-contribution-grid-snake-dark.svg" alt="github snake" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 
 ## 📫 Contact Me
 - ✉️ Email: [ronaspe42@gmail.com](mailto:ronaspe42@gmail.com)  
