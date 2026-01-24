@@ -33,10 +33,11 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="Neovim" width="50" height="50"/>
-
 </p>
 
 ---
+
+## 📊 GitHub Stats & Activity
 
 <p align="center">
   <img 
@@ -47,29 +48,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ronronrivera&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=ronronrivera&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
-
----
-<p align="center">
   <img src="https://github.com/ronronrivera/ronronrivera/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="GitHub Contribution Snake" />
 </p>
 
+<a href="https://wakatime.com/@47616671-572c-4942-bad1-e91edcc79e56"><img src="https://wakatime.com/badge/user/47616671-572c-4942-bad1-e91edcc79e56.svg" alt="Total time coded since Jan 24 2026" /></a>
 
+---
 
 ## 📫 Contact Me
 - ✉️ Email: [ronaspe42@gmail.com](mailto:ronaspe42@gmail.com)  
 - 🌐 Portfolio: [ronronrivera.github.io](https://ronronrivera.github.io/)  
 - 🧑‍💻 GitHub: [github.com/ronronrivera](https://github.com/ronronrivera)
-
----
