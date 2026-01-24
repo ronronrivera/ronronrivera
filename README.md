@@ -61,9 +61,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </p>
 
 <p align="center">
-  <img src="https://github.com/ronronrivera/ronronrivera/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/ronronrivera/ronronrivera/blob/output/github-contribution-grid-snake-dark.svg" alt="github snake" />
 </p>
-
 
 ## 📫 Contact Me
 - ✉️ Email: [ronaspe42@gmail.com](mailto:ronaspe42@gmail.com)  
