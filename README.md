@@ -38,6 +38,35 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ---
 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronronrivera&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ronronrivera&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=ronronrivera&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img src="https://github.com/ronronrivera/ronronrivera/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+[![wakatime](https://wakatime.com/badge/user/YOUR_ID.svg)](https://wakatime.com)
+
+
 ## 📫 Contact Me
 - ✉️ Email: [ronaspe42@gmail.com](mailto:ronaspe42@gmail.com)  
 - 🌐 Portfolio: [ronronrivera.github.io](https://ronronrivera.github.io/)  
