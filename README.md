@@ -37,21 +37,17 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 Stats & Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronronrivera&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-    height="180"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronronrivera&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" style="margin-right: 15px;"/>
+  
+  <a href="https://wakatime.com/@47616671-572c-4942-bad1-e91edcc79e56">
+    <img src="https://wakatime.com/badge/user/47616671-572c-4942-bad1-e91edcc79e56.svg" alt="Total time coded since Jan 24 2026" height="180" style="margin-right: 15px;"/>
+  </a>
+  
+  <img src="https://github.com/ronronrivera/ronronrivera/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="GitHub Contribution Snake" height="180"/>
 </p>
-
-<p align="center">
-  <img src="https://github.com/ronronrivera/ronronrivera/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="GitHub Contribution Snake" />
-</p>
-
-<a href="https://wakatime.com/@47616671-572c-4942-bad1-e91edcc79e56"><img src="https://wakatime.com/badge/user/47616671-572c-4942-bad1-e91edcc79e56.svg" alt="Total time coded since Jan 24 2026" /></a>
 
 ---
 
