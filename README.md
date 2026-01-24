@@ -62,6 +62,10 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ---
 
+<img src="https://github.com/ronronrivera/ronronrivera/blob/output/github-contribution-grid-snake.svg?raw=true" width="100%" />
+<img src="https://github.com/ronronrivera/ronronrivera/blob/output/github-contribution-grid-snake-dark.svg?raw=true" width="100%" />
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ronronrivera/ronronrivera/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/ronronrivera/ronronrivera/blob/output/github-contribution-grid-snake.svg?raw=true" />
