@@ -37,11 +37,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ---
 
-## 📊 Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronronrivera&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" style="margin-right: 15px;"/>
-    
+<p align="center">    
   <img src="https://github.com/ronronrivera/ronronrivera/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="GitHub Contribution Snake" height="180"/>
 </p>
 
