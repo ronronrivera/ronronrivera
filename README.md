@@ -47,4 +47,3 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ## 📫 Contact Me
 - ✉️ Email: [ronaspe42@gmail.com](mailto:ronaspe42@gmail.com)  
 - 🌐 Portfolio: [ronronrivera.github.io](https://ronronrivera.github.io/)  
-- 🧑‍💻 GitHub: [github.com/ronronrivera](https://github.com/ronronrivera)
