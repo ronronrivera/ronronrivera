@@ -8,15 +8,6 @@ Open to remote opportunities and collaborations.
 
 🔗 Portfolio: [ronronrivera.github.io](https://ronronrivera.github.io/)
 
----
-
-<h1 align="center">Hi there, I'm <a href="https://ronronrivera.github.io/" target="_blank">Ron</a> <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
-
-🎓 **Computer Science Student** at **Caraga State University, Philippines**  
-
----
-
 ## 🧰 Languages and Tools
 
 <p align="center">
