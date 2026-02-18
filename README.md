@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm <a href="https://ronronrivera.github.io/" target="_blank">Ron-ron Aspe Rivera</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
- **C++ & Backend Developer based in the Philippines.**  
+**C++ & Backend Developer based in the Philippines.**  
 
-  I specialize in performance-focused C++ development, backend systems using Node.js, NoSQL and SQL, and real-time applications including OpenGL projects. I build scalable, efficient software and full-stack applications, and I am open to collaborations.
+I specialize in performance-focused C++ development, backend systems using Node.js, NoSQL and SQL, and real-time applications including OpenGL projects. I build scalable, efficient software and full-stack applications, and I am open to collaborations.
 
 ---
 
@@ -15,6 +15,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
 
 <!-- Frontend -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
@@ -22,6 +23,12 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <!-- Backend -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="50" height="50"/>
+
+<!-- Cloud & DevOps -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
 
 <!-- Databases -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
@@ -37,7 +44,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </p>
 
 ---
-
 
 <p align="center">    
   <img src="https://github.com/ronronrivera/ronronrivera/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="GitHub Contribution Snake" height="180"/>
