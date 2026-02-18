@@ -2,8 +2,6 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
  **C++ & Backend Developer based in the Philippines.**  
-
- **Computer Science student at Caraga State University focused on performance-focused C++, real-time systems, OpenGL graphics, and full-stack backend development using Node.js and MongoDB.**  
 ---
 
 ## 🧰 Languages and Tools
