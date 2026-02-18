@@ -2,6 +2,9 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
  **C++ & Backend Developer based in the Philippines.**  
+
+  I specialize in performance-focused C++ development, backend systems using Node.js and MongoDB, and real-time applications including OpenGL projects. I build scalable, efficient software and full-stack applications, and I am open to remote opportunities and collaborations.
+
 ---
 
 ## 🧰 Languages and Tools
