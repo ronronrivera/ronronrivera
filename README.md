@@ -52,4 +52,4 @@ I specialize in performance-focused C++ development, backend systems using Node.
 
 ## 📫 Contact Me
 - ✉️ Email: [ronaspe42@gmail.com](mailto:ronaspe42@gmail.com)  
-- 🌐 Portfolio: [ronronrivera.github.io](https://ronronrivera.github.io/)  
+- 🌐 Portfolio: [https://ronronrivera.tech/](https://ronronrivera.tech/)  
