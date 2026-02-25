@@ -9,6 +9,18 @@
 
 ---
 
+## 🚀 About Me
+
+I specialize in performance-oriented C++ development and backend systems using Node.js and modern databases.  
+My focus is building scalable systems, real-time applications, and efficient software architectures.
+
+I care about:
+- Performance
+- System design
+- Clean architecture
+- Real-world deployment
+
+---
 
 ## 🧰 Tech Stack
 
@@ -63,3 +75,4 @@
 - ✉️ Email: [ronaspe42@gmail.com](mailto:ronaspe42@gmail.com)  
 - 🌐 Portfolio: https://ronronrivera.tech/
 
+---
