@@ -68,11 +68,3 @@ I care about:
   <img src="https://github.com/ronronrivera/ronronrivera/blob/output/github-contribution-grid-snake-dark.svg?raw=true" height="180"/>
 </p>
 
----
-
-## 📫 Contact
-
-- ✉️ Email: [ronaspe42@gmail.com](mailto:ronaspe42@gmail.com)  
-- 🌐 Portfolio: https://ronronrivera.tech/
-
----
